@@ -1,0 +1,50 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Diretórios temporários e cache
+**/tmp
+**/__pycache__/
+**/*.pyc
+/server/app/cache
+*.pkl
+
+# Build / distribuição
+**/dist
+dist-ssr
+*.parquet
+
+# Dados sensíveis e variáveis de ambiente
+*.env
+.conda
+*.local
+
+# Node modules
+**/node_modules
+
+# Diretórios estáticos (se forem gerados)
+**/static
+
+# IDEs e editores
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+
+# Visual Studio / VS Code arquivos específicos
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Dados específicos de serviços
+**/qdrant_data
+/qdrant
+database/data
+*.ipynb
