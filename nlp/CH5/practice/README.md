@@ -100,7 +100,7 @@ python3 03_index_qdrant.py
 ### 6) Subir API de chat com RAG
 
 ```bash
-uvicorn 04_api:app --host 0.0.0.0 --port 8000 --reload
+uvicorn 04_api:app --host 0.0.0.0 --port 8000
 ```
 
 ### 7) Testar a API

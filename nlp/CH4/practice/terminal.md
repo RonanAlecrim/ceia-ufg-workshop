@@ -69,7 +69,7 @@ python3 src/metrics.py
 ### Teste de RAG via terminal
 
 ```bash
-python3 src/rag.py
+python3 -m src.api
 ```
 
 ### Subir API
