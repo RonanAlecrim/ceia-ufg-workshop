@@ -50,7 +50,7 @@ Sua missão é escolher um (ou mais) dos desafios abaixo e implementar no códig
 
 * **Desafio 2: Engenharia de Prompt Avançada.**
 Nosso prompt atual é extremamente básico.
-* *Sua tarefa:* Melhore o prompt no script `03_rag.py`. Adicione regras estritas (ex: *"Responda sempre em bullet points"*, *"Se a resposta não estiver no texto, responda EXATAMENTE: 'Informação não encontrada na base'"*). Adicione exemplos (*Few-Shot Prompting*) dentro da instrução.
+* *Sua tarefa:* Melhore o prompt no script `rag.py`. Adicione regras estritas (ex: *"Responda sempre em bullet points"*, *"Se a resposta não estiver no texto, responda EXATAMENTE: 'Informação não encontrada na base'"*). Adicione exemplos (*Few-Shot Prompting*) dentro da instrução.
 
 ### Nível 2: Otimização de Busca
 
